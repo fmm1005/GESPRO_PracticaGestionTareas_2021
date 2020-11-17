@@ -4,6 +4,6 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 Para completar la primera práctica obligatoria sobre gestión de tareas en metodología ágil, se iniciará el repositorio de cada grupo (en el que se completará el resto de la práctica) por medio de un fork a este repositiorio.
 
 **Incluid debajo el nombre de los miembros del grupo:**
-Francisco Medel Molinero - https://github.com/fmm1005
-Alvaro López Pereda - https://github.com/xlp1004
-Adolfo Jesús Viñé - https://github.com/avg1009 
+* [fmm1005](https://github.com/fmm1005) - Francisco Medel Molinero
+* [xlp1004](https://github.com/xlp1004) - Alvaro López Pereda
+* [avg1009](https://github.com/avg1009) - Adolfo Jesús Viñe Ghezzi
